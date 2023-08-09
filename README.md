@@ -15,7 +15,7 @@
 ```bash
 # muduo网络库安装
 sudo apt install g++ cmake make libboost-dev
-git clone git@github.com:chenshuo/muduo.git
+git clone https://github.com/wth-stack/chatserver.git
 cd muduo
 ./build.sh # 构建
 sudo ./build.sh install # 将库文件和头文件安装到默认搜索路径下
