@@ -95,7 +95,7 @@ cd /usr/sbin/
 ```
 ### 安装编译
 ```bash
-git clone git@github.com:RyanWangllng/ClusterChatServer.git
+git clone https://github.com/wth-stack/chatserver.git
 cd ClusterChatServer/build/
 cmake ..
 make # 编译好的文件在bin目录底下
